@@ -1,4 +1,4 @@
-## A batch to Install Microsoft Photos App
+## A batch to Install Microsoft Photos
 > (without Store/AppxInstaller)
  [[Download]](https://github.com/gzmatte/ms-photos/releases/download/1/ms-photos.bat)
 
