@@ -6,5 +6,4 @@
 </br> 
 
 Tested in 22h2, KernelOS, xOS & LEET.
-
 > _Credits [m-jishnu](https://github.com/m-jishnu/alt-app-installer) for Alt App Installer._
