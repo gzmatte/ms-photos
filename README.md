@@ -6,4 +6,6 @@
 
 `Tested in 22h2, KernelOS, xOS & LEET.`
 
+`This isn't the best way, but its the only i could find, maybe installing a ms-store could work better.`
+
 > _Credits [m-jishnu](https://github.com/m-jishnu/alt-app-installer) for Alt App Installer._
