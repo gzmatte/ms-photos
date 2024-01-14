@@ -4,7 +4,7 @@
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/ms-photos/releases/download/1/ms-photos.bat)
 
-`Tested in 22h2, KernelOS, xOS & LEET.`
+`Tested in 22h2 & Custom Windows.`
 
 `This isn't the best way, but its the only i could find, maybe installing a ms-store could work better.`
 
